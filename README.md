@@ -12,35 +12,35 @@ The project showcases a modern, responsive dashboard with premium UI/UX and inte
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashbioard.png)
 
 ## Predictions
 
-![Predictions](images/predictions.png)
+![Predictions](prediction1.png)
+![Predictions](precition2.png)
 
 ## Drivers
 
-![Drivers](images/drivers.png)
+![Drivers](driver.png)
 
 ## Constructors
 
-![Constructors](images/constructors.png)
+![Constructors](constructor1.png)
+![Constructors](constructor2.png)
 
-## Circuits
 
-![Circuits](images/circuits.png)
 
 ## Race Analytics
 
-![Race Analytics](images/race-analytics.png)
+![Race Analytics](Raceanalytis1.png)
+![Race Analytics](Raceanalystis2.png)
 
 ## Historical Analysis
 
-![Historical](images/historical.png)
+![Historical](Historical1.png)
+![Historical](Historical2.png)
 
-## Model Insights
 
-![Model](images/model.png)
 
 ---
 
@@ -125,14 +125,11 @@ src/
 
 # 🚀 Future Enhancements
 
-- Real-time Formula 1 data integration
+- Real time Formula 1 data integration
 - Machine Learning race prediction models
 - FastAPI backend
 - Live telemetry dashboard
 - Driver comparison engine
 - Interactive 3D circuit visualization
-- AI-powered race strategy recommendations
+- AI Powered race strategy recommendations
 
----
-
-## ⭐ If you like this project, don't forget to give it a star!
