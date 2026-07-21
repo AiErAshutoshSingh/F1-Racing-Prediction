@@ -17,7 +17,7 @@ The project showcases a modern, responsive dashboard with premium UI/UX and inte
 ## Predictions
 
 ![Predictions](prediction1.png)
-![Predictions](precition 2.png)
+
 
 ## Drivers
 
