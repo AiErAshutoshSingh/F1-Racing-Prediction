@@ -32,7 +32,7 @@ The project showcases a modern, responsive dashboard with premium UI/UX and inte
 
 ## Race Analytics
 
-![Race Analytics](Raceanalytis1.png)
+![Race Analytics](Raceanalystis1.png)
 ![Race Analytics](Raceanalystis2.png)
 
 ## Historical Analysis
